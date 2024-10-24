@@ -1,0 +1,180 @@
+
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "banana" 17 times.(ªƒ„Ò8ß‰“2J$edc3dfb3-74c5-4d8c-9a14-193c378ae426
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "cherry" 15 times.(ªƒ„Ò8ß‰“2J$77536bca-1c3c-43b8-abe0-7c2c3e3844a0
+
+java:S1192™"KDefine a constant instead of duplicating this literal "elderberry" 3 times.(ÚÄĞÎ8ß‰“2J$5ef2a31f-08c6-43eb-bed4-205339314535
+Š
+java:S1192"GDefine a constant instead of duplicating this literal "apple" 17 times.(ªƒ„Ò8ß‰“2J$0c3d5527-e325-4151-9298-ff8c4d867d51
+
+java:S1192""GDefine a constant instead of duplicating this literal "ans?: " 3 times.(´–š¯şÿÿÿÿ8ß‰“2J$b478adcd-851f-4efe-b96f-2113d5f4e2a2
+o
+java:S3011",This accessibility update should be removed.(Ó«§¯8•ß‰“2J$b6b29fce-f584-40ee-aca0-e7b1c23ac1fe
+k	java:S108")Either remove or fill this block of code.(ç¥èĞ8–ß‰“2J$6c13aa0f-07b3-405b-9c5d-3d98590bada6
+
+java:S1854!"<Remove this useless assignment to local variable "ansAgain".(¥îÙÉ8–ß‰“2J$bf4eee93-3b3b-48a9-a493-2c50d9142a77
+½
+java:S6204 "zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(œçÖß8™ß‰“2J$7d6f55da-c15c-401e-8740-dccec35aa749
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(êû¹¼øÿÿÿÿ8—ß‰“2J$9a86bd04-ca35-49e8-a8fd-f6c8c837aef2
+ˆ
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(êû¹¼øÿÿÿÿ8 ß‰“2J$e600acca-6f20-4c77-ad47-e00360e609d7
+p
+java:S1481!"-Remove this unused "ansAgain" local variable.(¥îÙÉ8˜ß‰“2J$92e9d4d9-e0fe-415e-b7b7-ce7e024ff653
+r	java:S106""+Replace this use of System.out by a logger.(´–š¯şÿÿÿÿ8˜ß‰“2J$63011138-9340-4378-8696-ef216a0c1629
+~
+java:S18542"<Remove this useless assignment to local variable "ansAgain".(â½í%8™ß‰“2J$c59db196-2fc6-4e55-ae23-a967dbf3cf82
+½
+java:S62040"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(œçÖß8 ß‰“2J$d506edba-b2a7-4eb5-bbae-f2b33231aa02
+‰
+java:S1126+"AReplace this if-then-else statement by a single return statement.(ä¹ºôûÿÿÿÿ8šß‰“2J$e54381b1-3acc-41e2-837a-ae068cdb9bae
+o
+java:S14812"-Remove this unused "ansAgain" local variable.(â½í%8›ß‰“2J$35ad3142-b52e-45d4-83bc-13c461b7438d
+r	java:S1063"+Replace this use of System.out by a logger.(´–š¯şÿÿÿÿ8œß‰“2J$d16ffd1f-c05e-45bb-83ef-159cd649dcd1
+
+java:S1854="7Remove this useless assignment to local variable "max".(Ú“’äùÿÿÿÿ8œß‰“2J$98f78f25-6ef0-473a-9f64-782bed7800a1
+p
+java:S1481="(Remove this unused "max" local variable.(Ú“’äùÿÿÿÿ8ß‰“2J$f0fda677-036c-4b7b-af6d-894dbbaed142
+r	java:S106A"+Replace this use of System.out by a logger.(´–š¯şÿÿÿÿ8ß‰“2J$56facd11-ed14-465e-8502-7eff486b9295
+„
+java:S1854K"<Remove this useless assignment to local variable "ansAgain".(Ì¼¹éùÿÿÿÿ8Ÿß‰“2J$5491edce-6b8f-481b-ba20-b9469d2ffcfd
+z
+java:S1854G"7Remove this useless assignment to local variable "ans".(²”öÌ8ñ¯ÛÓŒ2J$5acec671-7073-49fb-adfd-38549fd336f8
+½
+java:S6204I"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(œçÖß8§ß‰“2J$47b5fb8d-d0ed-454a-a0db-cd391d079d92
+–
+java:S1602G"SRemove useless curly braces around statement and then remove useless return keyword(²”öÌ8 ß‰“2J$b29f92ec-2f1f-4e2a-bc12-7279215173cf
+€
+java:S1612G"=Replace this lambda with method reference 'Object::toString'.(²”öÌ8’¸×Ï“2J$44ab6229-6a9f-4c95-90bb-9bf0448a6ef7
+k
+java:S1481G"(Remove this unused "ans" local variable.(²”öÌ8¡ß‰“2J$2e91fea9-b9be-4192-89dc-187ebdfdeaa3
+u
+java:S1481K"-Remove this unused "ansAgain" local variable.(Ì¼¹éùÿÿÿÿ8¡ß‰“2J$e1656a3a-898a-408c-920c-4115da22dc6f
+m	java:S106S"+Replace this use of System.out by a logger.(’¥Ö¢8¢ß‰“2J$41dd365a-d705-45d5-9788-fc0c3dcc8141
+½
+java:S6204Z"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(‹¨¦8Çß‰“2J$7ea207dc-4356-4573-b6c9-a5d44817e1c9
+m	java:S106["+Replace this use of System.out by a logger.(’¥Ö¢8¤ß‰“2J$08adb6fc-8b5f-4d67-a876-974e17d272d1
+z
+java:S1854d"7Remove this useless assignment to local variable "sum".(òıãÖ8¥ß‰“2J$761fe0e8-6ffe-401c-9d5d-d69784508918
+m	java:S106c"+Replace this use of System.out by a logger.(ˆ¼ó‡8¥ß‰“2J$2ea7cf4e-0a4d-41c7-86cc-528e5dc4d659
+k
+java:S1481d"(Remove this unused "sum" local variable.(òıãÖ8¦ß‰“2J$3e77565e-b9c5-4245-b4b9-e650b3be62b8
+r	java:S106l"+Replace this use of System.out by a logger.(Ùˆ×Ãıÿÿÿÿ8§ß‰“2J$ecf3e9f5-9826-4ab0-8633-57eefd3f70f4
+½
+java:S6204q"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(èÏ¡Ë8£¸×Ï“2J$238c3809-02fa-43c5-b3b6-751684c44b85
+r	java:S106r"+Replace this use of System.out by a logger.(ÊÛÏ¯ùÿÿÿÿ8§ß‰“2J$98159f0d-40e5-477a-a9b7-d39e8613bb88
+m	java:S106z"+Replace this use of System.out by a logger.(§¼÷ä8©ß‰“2J$527397d8-9ff1-48c7-8e3a-62be12825836
+¾
+java:S6204‚"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(´äš8©¸×Ï“2J$690329c0-364c-4035-9d82-69011eab6cb4
+n	java:S106ƒ"+Replace this use of System.out by a logger.(µ²œù8ªß‰“2J$7009a996-de29-443e-b977-1d33d2e6e32d
+…
+java:S1854ˆ"BRemove this useless assignment to local variable "shortestString".(áb8ªß‰“2J$4b52c0c9-cd78-4765-b511-cfb02aff2145
+v
+java:S1481ˆ"3Remove this unused "shortestString" local variable.(áb8«ß‰“2J$c2bd2e36-c927-4b7f-8431-0f9f998aa0c5
+…
+java:S1854"BRemove this useless assignment to local variable "shortestString".(áb8«ß‰“2J$c6597b31-f384-4e82-8b1f-12140922d76b
+v
+java:S1481"3Remove this unused "shortestString" local variable.(áb8¬ß‰“2J$d374535b-fca8-42ec-92fc-492359b8e55e
+ˆ
+java:S1854•"?Remove this useless assignment to local variable "allPositive".(¢úŞ·úÿÿÿÿ8¬ß‰“2J$4852fb63-f556-4bf2-b527-15080e9a84f4
+y
+java:S1481•"0Remove this unused "allPositive" local variable.(¢úŞ·úÿÿÿÿ8¬ß‰“2J$15e85950-2f73-4c29-a1b8-89dc72964999
+s	java:S106Ÿ"+Replace this use of System.out by a logger.(§ïÉııÿÿÿÿ8­ß‰“2J$a7d88451-1208-4d62-84e2-6b62b8490cca
+†
+java:S1854¥"BRemove this useless assignment to local variable "nonNullStrings".(³«Àá8­ß‰“2J$5865d799-88a6-4442-9d7d-701da1e92f8a
+¾
+java:S6204§"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¹¸×Ï“2J$736dab47-e838-4187-8a22-a03279f3f712
+w
+java:S1481¥"3Remove this unused "nonNullStrings" local variable.(³«Àá8®ß‰“2J$b5ac5f55-8740-411c-ba3a-8f301898e97e
+Š
+java:S1854®"ARemove this useless assignment to local variable "averageLength".(¨ö½Úıÿÿÿÿ8®ß‰“2J$a5cecf87-e384-4539-98fe-d7666feb0bed
+{
+java:S1481®"2Remove this unused "averageLength" local variable.(¨ö½Úıÿÿÿÿ8®ß‰“2J$52ba9b35-e706-40c5-8605-39036215fffe
+€
+java:S1854µ"7Remove this useless assignment to local variable "ans".(öÑşùÿÿÿÿ8°ß‰“2J$403f79d3-d743-4e78-804c-ba0a30c151c9
+{
+java:S1611µ"2Remove the parentheses around the "data" parameter(öÑşùÿÿÿÿ8°ß‰“2J$b7957400-4872-45e7-8636-780a66cac734
+q
+java:S1481µ"(Remove this unused "ans" local variable.(öÑşùÿÿÿÿ8±ß‰“2J$2cbe26dd-0a8a-4edc-8edf-0d959434b46d
+s	java:S106¼"+Replace this use of System.out by a logger.(´ú÷¾ûÿÿÿÿ8µß‰“2J$1710b423-55a6-44a0-98b8-1784988ec7d9
+{
+java:S1854Â"7Remove this useless assignment to local variable "ans".(øÎÁğ8¸ß‰“2J$96a7df09-7c84-4f7e-bcef-f41d347e0bc2
+l
+java:S1481Â"(Remove this unused "ans" local variable.(øÎÁğ8¹ß‰“2J$c4488d2a-8e86-4fd7-8651-cb878301b5cd
+€
+java:S1854È"<Remove this useless assignment to local variable "intArray".(Óè†Î8¼ß‰“2J$8d35e533-fa03-41ea-a800-1fe3384b5b2b
+q
+java:S1481È"-Remove this unused "intArray" local variable.(Óè†Î8½ß‰“2J$30387d91-3a27-4f26-a947-9a3140eb6181
+
+java:S1854Ñ";Remove this useless assignment to local variable "product".(‘­Ñó8½ß‰“2J$0ef1cbff-5a59-49fc-9a91-75fa9122438f
+p
+java:S1481Ñ",Remove this unused "product" local variable.(‘­Ñó8½ß‰“2J$e8dbfb6b-d73f-4cd9-b796-718831eb1a95
+‰
+java:S1854Ø"@Remove this useless assignment to local variable "allLowercase".(£ğøõüÿÿÿÿ8¾ß‰“2J$49df1579-4ca1-4185-8785-78146bf73e2a
+z
+java:S1481Ø"1Remove this unused "allLowercase" local variable.(£ğøõüÿÿÿÿ8¿ß‰“2J$80b34278-f2f4-44c3-b67d-308404e5bfe3
+{
+java:S1854ß"7Remove this useless assignment to local variable "ans".(òı’8Áß‰“2J$6aaea048-44be-4e5d-8a3f-2ea2606feb53
+l
+java:S1481ß"(Remove this unused "ans" local variable.(òı’8Âß‰“2J$ea6e1838-68ef-4155-8272-faaf6610422b
+„
+java:S1854å"@Remove this useless assignment to local variable "secondLowest".(â´‡ˆ8Ãß‰“2J$85b146a0-7c01-4d34-bf4b-80b96103be38
+u
+java:S1481å"1Remove this unused "secondLowest" local variable.(â´‡ˆ8Ãß‰“2J$06738161-fd46-4fd8-8fdd-ff8957a5d396
+€
+java:S1854ò"7Remove this useless assignment to local variable "ans".(ĞíêÜşÿÿÿÿ8Äß‰“2J$add2d964-6cdf-4f60-9bdc-bc72f9f7af7f
+	java:S125ñ"<This block of commented-out lines of code should be removed.(¥Ë˜Â8Äß‰“2J$2db5ac00-a0e1-4d0b-9391-8cca85a7e8c8
+q
+java:S1481ò"(Remove this unused "ans" local variable.(ĞíêÜşÿÿÿÿ8Äß‰“2J$3e5de374-2150-4883-8a6b-8ed48f83cfc9
+€
+java:S1854ù"7Remove this useless assignment to local variable "ans".(™íª¨úÿÿÿÿ8Åß‰“2J$50f2857c-7c38-4a9e-a244-66aed9253976
+q
+java:S1481ù"(Remove this unused "ans" local variable.(™íª¨úÿÿÿÿ8Æß‰“2J$a4838fcf-b4dc-4a0b-b669-3d8dbc69ad21
+„
+java:S1854";Remove this useless assignment to local variable "doubles".(¨çâ¬şÿÿÿÿ8Æß‰“2J$a0452e00-c405-4cfe-a14f-7cd73fa0d47a
+¾
+java:S6204ƒ"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8å¸×Ï“2J$58fae69b-9a6c-42bb-99f5-3e88b62b8d00
+u
+java:S1481",Remove this unused "doubles" local variable.(¨çâ¬şÿÿÿÿ8Éß‰“2J$383ab643-12d2-44f8-91b4-aef76476b702
+‚
+java:S1854‰"9Remove this useless assignment to local variable "index".(åÔõàşÿÿÿÿ8Êß‰“2J$df551e81-02cd-4fee-a7ac-193ae2ffa236
+s
+java:S1481‰"*Remove this unused "index" local variable.(åÔõàşÿÿÿÿ8Ëß‰“2J$a78bcdd0-10d2-4027-86c7-fa64ad756dc6
+Œ
+java:S1854’"CRemove this useless assignment to local variable "filteredStrings".(åŠïüÿÿÿÿ8Ëß‰“2J$06f6e75e-feb8-462b-8c95-1b4859a9a5b1
+¾
+java:S6204”"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Ò¹×Ï“2J$63646a10-5092-43d5-8216-04b84b79de06
+}
+java:S1481’"4Remove this unused "filteredStrings" local variable.(åŠïüÿÿÿÿ8Ìß‰“2J$1b3dec00-573b-4fb0-9959-c7f44f86a59f
+‡
+java:S1854š"CRemove this useless assignment to local variable "groupedByLength".(Â¢™Ü8Ìß‰“2J$fc2c97ed-e3ca-415c-bada-57deafd5f4ad
+x
+java:S1481š"4Remove this unused "groupedByLength" local variable.(Â¢™Ü8Íß‰“2J$b50e1559-2fc9-4f0e-b60e-f7195f5be3e1
+^	java:S125"<This block of commented-out lines of code should be removed.(ÉÀÂùüÿÿÿÿ8‚¦‡Š”2
+s	java:S106§"+Replace this use of System.out by a logger.(öÁŠùÿÿÿÿ8Îß‰“2J$87b3ee33-f4ce-42ca-b4ba-bb20ada69bb3
+s	java:S106°"+Replace this use of System.out by a logger.(Ãã÷–øÿÿÿÿ8Ïß‰“2J$a2f7ca70-ec91-431b-9513-37acf1918d96
+{
+java:S1854¸"7Remove this useless assignment to local variable "ans".(ßğØÀ8Ñß‰“2J$1d897466-b6cc-47d0-a6ea-0d0a54ade21b
+l
+java:S1481¸"(Remove this unused "ans" local variable.(ßğØÀ8Òß‰“2J$85c08955-efe8-4aab-afb4-d5db541da1bb
+†
+java:S1854¿"BRemove this useless assignment to local variable "groupedByPrime".(¬¨È¤8Ôß‰“2J$ee5f91eb-82a3-43e9-8eba-2819360bbfc0
+w
+java:S1481¿"3Remove this unused "groupedByPrime" local variable.(¬¨È¤8Õß‰“2J$3062856e-fc1f-4e26-bfe9-68b3e4e5d77c
+n	java:S106Ó"+Replace this use of System.out by a logger.(‘àµ¬8Õß‰“2J$d10fd509-4ab9-420e-8f36-ff5c75d40449
+s	java:S106Û"+Replace this use of System.out by a logger.(²Ñ—ûúÿÿÿÿ8Öß‰“2J$bd7a4949-6a1d-476e-8eec-67b3b45e313f
+‡
+java:S1854á"CRemove this useless assignment to local variable "groupedByDecade".(âĞ™Ï8Öß‰“2J$70c11a6e-01e7-4d73-b514-438a86d9e789
+x
+java:S1481á"4Remove this unused "groupedByDecade" local variable.(âĞ™Ï8×ß‰“2J$c5355882-0990-4325-8302-4f994dc6279f
+‹
+java:S1854é"GRemove this useless assignment to local variable "groupedByWordLength".(¶·›¢8Øß‰“2J$d6d3d25e-d865-4e30-b93f-0b43b8d7623d
+|
+java:S1481é"8Remove this unused "groupedByWordLength" local variable.(¶·›¢8Øß‰“2J$7922151a-9434-4122-912f-1b4dca13aa0c
+
+java:S1854ò"FRemove this useless assignment to local variable "groupedByThreshold".(§Ìàûÿÿÿÿ8´±ÛÓŒ2J$7e839a61-796d-46ef-935a-9c366eb70483
+€
+java:S1481ò"7Remove this unused "groupedByThreshold" local variable.(§Ìàûÿÿÿÿ8Ùß‰“2J$cd6fc490-1c86-428d-bcf6-cf8b1c5e49bc
+U
+java:S1128"9Remove this unused import 'javax.swing.text.html.Option'.(¼Òì:8¦‡Š”2

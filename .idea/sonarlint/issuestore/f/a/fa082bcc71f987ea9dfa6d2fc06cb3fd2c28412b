@@ -1,0 +1,51 @@
+
+Œ	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¼ùñJ$3865ac0e-d748-4abd-93c5-e4aa254ced6a
+Œ	java:S117P"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( †‰çJ$7ee6719d-acee-416a-8424-6e043d9a07ac
+	java:S117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œ®şúJ$a0beaf00-6c7a-4422-9ca6-30e24859c7b6
+l
+java:S1066ø"/Merge this if statement with the enclosing one.(×İŒÄJ$c141eab5-175c-47cf-9874-20d47ca801d5
+l
+java:S1066Á"/Merge this if statement with the enclosing one.(ÆÀ°šJ$5f6725d2-3b2e-4f3f-b705-2861c1ec8ccd
+¬
+java:S1319®"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆòûHJ$06b7298c-42a1-4b23-8018-ebbc06a75f8d
+y
+java:S4973É"<Strings and Boxed types should be compared using "equals()".(›ôÏ”J$49a4c2de-9266-4b49-bf79-aadf5af736cc
+y
+java:S4973á"<Strings and Boxed types should be compared using "equals()".(›ôÏ”J$94dcc53b-8fe4-40c0-b74d-2c8c3c693bf5
+W
+java:S1643H"Use a StringBuilder instead.(‰˜†HJ$bf36d51b-9d91-4a99-893e-9faf82bf378c
+X
+java:S1643K"Use a StringBuilder instead.(ïóøJ$bc9895a1-5fb3-43e7-bdc8-9838549640f5
+^
+java:S1643Â"Use a StringBuilder instead.(…ÓÖşÿÿÿÿJ$0c635acc-6bb8-413a-98a9-6243aea953e8
+Y
+java:S1643Å"Use a StringBuilder instead.(„¤çñJ$4c388c07-f02f-4677-b8b0-0b03f6c108a2
+X
+java:S1643Ú"Use a StringBuilder instead.(ß°û&J$12d995fe-d68d-43e5-8be8-87965dd1b545
+^
+java:S1643İ"Use a StringBuilder instead.(’»é¹üÿÿÿÿJ$aa2314b7-ab2d-4cf1-bc49-d7a784d3e0a3
+Y
+java:S1643ì"Use a StringBuilder instead.(ùÚJ$8199485a-d0ef-4e52-9035-b46f84ace043
+^
+java:S1643¦"Use a StringBuilder instead.(¿ö¯äüÿÿÿÿJ$a09c986e-d855-4d6b-a1dd-eddc9e67901a
+
+java:S1149”"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Öï€‹J$03c83ded-e76e-4fa6-8a40-f4a7d7d9b73c
+|	java:S125"<This block of commented-out lines of code should be removed.(×÷ïÛıÿÿÿÿJ$fef44589-1aad-4727-a9de-da189b6b8648
+|	java:S125"<This block of commented-out lines of code should be removed.(’ÛæşÿÿÿÿJ$413ca909-15f5-43e5-ae22-bd96eebce56c
+f
+java:S1197="*Move the array designators [] to the type.(‘´–ÁJ$0d25feee-859b-48ca-b569-d8beb0b9a47b
+d
+java:S1659o"(Declare "countRight" on a separate line.(Ü—ÀÍJ$58e0134a-a9a0-4423-8df9-1826ea47d032
+h
+java:S1659r"'Declare "imbalance" on a separate line.(»È‹ƒûÿÿÿÿJ$c2e3f4a8-9cb3-47c6-ad68-254d5c6117ef
+”
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ğ‰‡‰ÿÿÿÿÿJ$85d3dcb9-389a-4f9b-9d67-e5a8fe661a1e
+e
+java:S1659˜"#Declare "right" on a separate line.(ÙŞá¹ûÿÿÿÿJ$f57db106-101c-426e-b30a-38364e9b7bc2
+x	java:S125¾"<This block of commented-out lines of code should be removed.( Î–ÒJ$39251336-cde5-461b-a71e-485fac9ef453
+	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÃåşøÿÿÿÿJ$f380ed1a-c07f-4ebd-8776-bab5130b7be3
+f	java:S106"+Replace this use of System.out by a logger.(ƒÚáBJ$8b82a23d-de3b-43ce-9d18-b19a79fff9df
+x
+java:S1854¶"6Remove this useless assignment to local variable "po".(ÈÆ‘×úÿÿÿÿJ$5f2d2fd6-2ce9-468e-8dd3-1eafa66ec35b
+i
+java:S1481¶"'Remove this unused "po" local variable.(ÈÆ‘×úÿÿÿÿJ$964bdc2a-fe72-4d79-ba33-1d284ce118ed

@@ -1,0 +1,20 @@
+
+ˆ
+java:S1192#"FDefine a constant instead of duplicating this literal "delhi" 3 times.(‚ŠÞz8Ú‰ŠŠ”2J$a7a43349-449d-4940-bc16-74ec63dc6c84
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ÿ¥ü‹ýÿÿÿÿ8ß‰ŠŠ”2J$35d19b1e-9367-4ce2-865f-a9a3011e291e
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Ž¡Ðÿÿÿÿÿ8à‰ŠŠ”2J$8aadb204-b723-4412-b8bd-52498f840193
+~	java:S125-"<This block of commented-out lines of code should be removed.(‚Î–É8â‰ŠŠ”2J$7fa20274-33a5-49cb-94b0-1fcb2258701e
+r	java:S106<"+Replace this use of System.out by a logger.( Ëúˆûÿÿÿÿ8ã‰ŠŠ”2J$dae7d74c-7f66-4520-9682-8f8b3bdcb075
+X	java:S125>"<This block of commented-out lines of code should be removed.(Û¿·Ï8ø×ŠŠ”2
+~	java:S125C"<This block of commented-out lines of code should be removed.(©ªà8ä‰ŠŠ”2J$667501c0-8605-4477-abfc-c1dc7156edde
+w
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8ä‰ŠŠ”2J$cfbccefd-fe30-441f-9207-e3bccdfc39e8
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8ä‰ŠŠ”2J$e12b7ec5-c5a4-4260-a9ea-aa6871e32a62
+x
+java:S1128"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ8ä‰ŠŠ”2J$bdb167cf-8be0-4ee1-8c84-69c2bdf07b5e
+{
+java:S1128
+"8Remove this unused import 'java.util.function.Function'.(»³Íž8ä‰ŠŠ”2J$497bb302-e9c0-4d65-bfa2-68c816b68ac5
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ä‰ŠŠ”2J$871ed358-0540-4b0d-9062-1077d9961262

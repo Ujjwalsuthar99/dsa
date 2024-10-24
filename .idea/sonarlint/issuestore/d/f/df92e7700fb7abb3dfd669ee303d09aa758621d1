@@ -1,0 +1,28 @@
+
+˜	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§×Ñûÿÿÿÿ8ï’ÁŠ”2J$4ad8a67e-c15b-4ec9-a015-b6ad99a02588
+“	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¸½ù8ğ’ÁŠ”2J$d17be373-25a6-4483-8f21-834b2dc8e1c2
+x
+java:S1854"5Remove this useless assignment to local variable "k".(Şë¥8õ’ÁŠ”2J$0d0c32f0-292c-4196-ba90-eac45ff148b6
+
+java:S1854"7Remove this useless assignment to local variable "arr".(€æµòÿÿÿÿÿ8õ’ÁŠ”2J$213ca612-a505-468f-966b-ffebcd453614
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(£ŞÃ¡ùÿÿÿÿ8ö’ÁŠ”2J$c88969a0-4745-415d-8fbd-40ea1f37f2fe
+p
+java:S1481"(Remove this unused "arr" local variable.(€æµòÿÿÿÿÿ8ö’ÁŠ”2J$bc7f9b9e-ef41-43c7-9fe0-e07f30d2c21b
+i
+java:S1481"&Remove this unused "k" local variable.(Şë¥8ö’ÁŠ”2J$a68417d5-5937-48e7-b8ba-3d81745007a3
+~	java:S125"<This block of commented-out lines of code should be removed.(¯Ğ¼¾8÷’ÁŠ”2J$d44af5d5-6073-4d32-92e0-841b06d761e7
+~	java:S125"<This block of commented-out lines of code should be removed.(»®†½8÷’ÁŠ”2J$22d83c2a-f4ec-407f-9601-1afd2eabf82f
+~	java:S125"<This block of commented-out lines of code should be removed.(‰È„8÷’ÁŠ”2J$de699e99-f6b2-40a7-b15f-17365bacb990
+}	java:S125%"<This block of commented-out lines of code should be removed.(éõ¹#8ù’ÁŠ”2J$1890fdd9-6a9e-46e3-beec-e22d16862fa3
+m
+java:S1197k"*Move the array designators [] to the type.(Ÿ‡’ë8ú’ÁŠ”2J$c5e6e80b-cddb-41d9-b8b7-52ca400860b3
+„	java:S125€"<This block of commented-out lines of code should be removed.(†ŞÀæûÿÿÿÿ8ı’ÁŠ”2J$06e8e6eb-8408-46c6-a3f3-4f4c1fbde6f2
+n	java:S106 "+Replace this use of System.out by a logger.(²‹ÿå8ı’ÁŠ”2J$b6d54025-04d9-4582-8dce-6f0f307eedc0
+s	java:S106£"+Replace this use of System.out by a logger.(È‡‡Êüÿÿÿÿ8ı’ÁŠ”2J$a9c88f71-4f41-42f8-a447-066c1aec0095
+s	java:S106¨"+Replace this use of System.out by a logger.(È‡‡Êüÿÿÿÿ8 êÂŠ”2J$59f2df48-8f35-4b58-8bdb-f903f5af0cbf
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ş’ÁŠ”2J$ac3526f1-51d9-4d96-abbe-148cd252dbdb
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ş’ÁŠ”2J$d2506849-54f9-452a-a8e0-f55879920eff
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ş’ÁŠ”2J$eaa6a2ff-50bc-4fcf-993e-769824f96542
